@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "星云客 - 精品商店",
-  description: "星云客精品商店，为您提供优质的商品和服务",
+  title: "星云客 - 未来商店",
+  description: "星云客未来商店，探索无限可能，发现生活之美",
+  themeColor: "#0f172a",
 };
 
 export default function RootLayout({
